@@ -2,7 +2,7 @@
 
 Réalisé en binome par Frédéric Buono et Guillaume Guibet
 
-###Etat du projet :
+### Etat du projet :
 
 Le MVP est atteint.
 
